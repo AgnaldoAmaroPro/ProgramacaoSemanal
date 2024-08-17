@@ -1,0 +1,35 @@
+{
+    "times": [
+      {
+        "nome": "Afiliadas",
+        "pessoas": [
+            "Lorran",
+            "Marcela",
+            "Analu",
+            "Sam",
+            "Laís"
+        ]
+      },
+      {
+        "nome": "Vitrine",
+        "pessoas": [
+          "Andriw ",
+          "Mariana",
+          "Analu"
+        ]
+      },
+      {
+        "nome": "Contas e Credecimaento",
+        "pessoas": [
+            "Milla",
+            "Taís",
+            "Bruno",
+            "Caique",
+            "Eduardo",
+            "Guilherme",
+            "Marcos",
+            "Analu"
+        ]
+      }
+    ]
+  }
